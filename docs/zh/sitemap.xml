@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mingyizhang.github.io/ccgkoeln/posts/2019ecmd-bibelcamp/</loc>
+    <lastmod>2019-12-01T22:50:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mingyizhang.github.io/ccgkoeln/posts/2019weihnachtsfeier/</loc>
+    <lastmod>2019-12-01T22:50:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mingyizhang.github.io/ccgkoeln/</loc>
+    <lastmod>2019-12-01T22:50:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mingyizhang.github.io/ccgkoeln/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://mingyizhang.github.io/ccgkoeln/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mingyizhang.github.io/ccgkoeln/posts/</loc>
+    <lastmod>2019-12-01T22:50:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mingyizhang.github.io/ccgkoeln/de/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://mingyizhang.github.io/ccgkoeln/posts/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mingyizhang.github.io/ccgkoeln/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -45,20 +85,6 @@
   </url>
   
   <url>
-    <loc>https://mingyizhang.github.io/ccgkoeln/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://mingyizhang.github.io/ccgkoeln/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mingyizhang.github.io/ccgkoeln/"
-                />
-  </url>
-  
-  <url>
     <loc>https://mingyizhang.github.io/ccgkoeln/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -69,20 +95,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://mingyizhang.github.io/ccgkoeln/contact/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mingyizhang.github.io/ccgkoeln/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://mingyizhang.github.io/ccgkoeln/de/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://mingyizhang.github.io/ccgkoeln/posts/"
                 />
   </url>
   
