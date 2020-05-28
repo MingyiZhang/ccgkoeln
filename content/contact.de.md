@@ -7,7 +7,7 @@ menu:
 
 ---
 
- {{< figure src="/images/europe-campus-ministry.jpg" link="https://www.ecministry.net/">}}
+ {{< figure src="../images/europe-campus-ministry.jpg" link="https://www.ecministry.net/">}}
 
 ## Pastor Bai Wang
 
