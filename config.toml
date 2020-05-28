@@ -1,0 +1,62 @@
+baseURL = "http://example.org/"
+DefaultContentLanguage = "zh"
+hasCJKLanguage = true
+theme = "ananke"
+
+[params]
+youtube = "https://www.youtube.com/channel/UCmzrGtqXdQR2wckvaxcM3rQ"
+
+[Languages]
+[Languages.zh]
+url = "/zh/"
+title = "科隆华人基督徒团契"
+weight = 0
+languagename = "中文"
+
+[[Languages.zh.menu.main]]
+url = "/"
+name = "聚会消息"
+weight = 1
+
+[[Languages.zh.menu.main]]
+url = "/posts/"
+name = "营会|活动"
+weight = 3
+
+[[Languages.zh.menu.main]]
+url = "/about/"
+name = "关于我们"
+weight = 5
+
+[[Languages.zh.menu.main]]
+url = "/contact/"
+name = "联络我们"
+weight = 10
+
+[Languages.de]
+url = "/de/"
+title = "Chinesische Christliche Gemeinde Köln"
+weight = 0
+languagename = "DE"
+
+[[Languages.de.menu.main]]
+url = "/"
+name = "Hauskreis"
+weight = 1
+
+[[Languages.de.menu.main]]
+url = "/posts/"
+name = "Bibelcamp|Aktivität"
+weight = 3
+
+[[Languages.de.menu.main]]
+url = "/about/"
+name = "Über uns"
+weight = 5
+
+[[Languages.de.menu.main]]
+url = "/contact/"
+name = "Kontakt"
+weight = 10
+
+
