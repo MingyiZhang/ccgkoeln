@@ -45,6 +45,20 @@
   </url>
   
   <url>
+    <loc>https://mingyizhang.github.io/ccgkoeln/de/pastor/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://mingyizhang.github.io/ccgkoeln/pastor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mingyizhang.github.io/ccgkoeln/de/pastor/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mingyizhang.github.io/ccgkoeln/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
