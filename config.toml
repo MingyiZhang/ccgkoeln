@@ -2,7 +2,6 @@ baseURL = "https://mingyizhang.github.io/ccgkoeln/"
 DefaultContentLanguage = "zh"
 hasCJKLanguage = true
 theme = "ananke"
-publishDir = "docs"
 
 [params]
 youtube = "https://www.youtube.com/channel/UCmzrGtqXdQR2wckvaxcM3rQ"
