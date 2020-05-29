@@ -25,4 +25,4 @@ __团契奉献账户（提供免税证明）__
 - 账户名: ECMD Köln (Europe Campus Ministry Deutschland e. V.)
 - IBAN: DE12 3704 0044 0601 0359 00
 
-{{< form-contact action="http://formspree.io/your@email.com"  >}}
+{{< form-contact action="http://formspree.io/ccgkoeln@gmail.com"  >}}
