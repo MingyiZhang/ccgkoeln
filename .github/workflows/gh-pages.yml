@@ -25,4 +25,6 @@ jobs:
     - name: Push Public
       run: |
         cd public
+        git status
+        git remote -v
         git log
