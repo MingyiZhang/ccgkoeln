@@ -25,6 +25,8 @@ jobs:
     - name: Push Public
       run: |
         cd public
+        git config --local user.email "mingyizhang1987@gmail.com"
+        git config --local user.name "Mingyi Zhang"
         git add .
         git commit -m "test deploy in github action"
         git push
