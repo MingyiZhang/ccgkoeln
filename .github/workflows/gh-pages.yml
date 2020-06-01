@@ -25,5 +25,6 @@ jobs:
     - name: Push Public
       run: |
         cd public
-        git status
+        git add .
+        git commit -m "test deploy in github action"
         git push
