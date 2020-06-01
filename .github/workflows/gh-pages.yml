@@ -28,3 +28,4 @@ jobs:
         git status
         git remote -v
         git log
+        git branch
