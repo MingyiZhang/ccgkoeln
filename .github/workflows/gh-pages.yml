@@ -25,6 +25,8 @@ jobs:
     - name: Push Public
       run: |
         cd public
+        git log
         git checkout master
         git status
+        git log
 
