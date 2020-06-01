@@ -25,7 +25,4 @@ jobs:
     - name: Push Public
       run: |
         cd public
-        git status
-
-    - name: PWD
-      run: echo $(pwd)
+        git log
