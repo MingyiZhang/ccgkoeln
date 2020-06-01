@@ -23,4 +23,6 @@ jobs:
       run: hugo --minify
 
     - name: Push Public
-      run: git status
+      run: |
+        cd public
+        git status
