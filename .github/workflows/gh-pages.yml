@@ -21,3 +21,6 @@ jobs:
 
     - name: Build
       run: hugo --minify
+
+    - name: Push Public
+      run: git status
