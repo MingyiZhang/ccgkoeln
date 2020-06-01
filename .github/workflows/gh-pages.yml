@@ -23,9 +23,7 @@ jobs:
       run: hugo --minify
 
     - name: Echo environment
-      run: |
-        echo ${EMAIL}
-        echo ${DEPLOY_KEY_PRIVATE}
+      uses: ./.github/actions
       env:
         DEPLOY_KEY_PRIVATE: ${{ secrets.DEPLOY_KEY_PRIVATE }}
         EMAIL: ${{ secrets.EMAIL }}
