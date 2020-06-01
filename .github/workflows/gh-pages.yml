@@ -22,12 +22,20 @@ jobs:
     - name: Build
       run: hugo --minify
 
-    - name: Push Public
+    - name: Echo environment
       run: |
-        cd public
-        git checkout master
-        git config --local user.email "mingyizhang1987@gmail.com"
-        git config --local user.name "Mingyi Zhang"
-        git add .
-        git commit -m "Test deploy from github action"
-        git push
+        echo ${EMAIL}
+        echo ${DEPLOY_KEY_PRIVATE}
+      env:
+        DEPLOY_KEY_PRIVATE: ${{ secrets.DEPLOY_KEY_PRIVATE }}
+        EMAIL: ${{ secrets.EMAIL }}
+
+#    - name: Push Public
+#      run: |
+#        cd public
+#        git checkout master
+#        git config --local user.email "mingyizhang1987@gmail.com"
+#        git config --local user.name "Mingyi Zhang"
+#        git add .
+#        git commit -m "Test deploy from github action"
+#        git push
