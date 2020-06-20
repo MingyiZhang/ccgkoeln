@@ -1,4 +1,4 @@
-baseURL = "https://ccgkoeln.github.io/"
+baseURL = "https://koeln-ccg.de/"
 DefaultContentLanguage = "zh"
 hasCJKLanguage = true
 theme = "ananke"
