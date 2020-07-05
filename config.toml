@@ -4,6 +4,7 @@ hasCJKLanguage = true
 theme = "ananke"
 
 [params]
+env = "production"
 youtube = "https://www.youtube.com/channel/UCmzrGtqXdQR2wckvaxcM3rQ"
 
 [Languages]
