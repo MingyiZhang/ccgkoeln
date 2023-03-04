@@ -1,5 +1,5 @@
 ---
-title: "科隆华人基督徒团契"
+title: "科隆华人基督教会"
 featured_image: '/images/cologne-destination.jpg'
 description: "Chinesische Christliche Gemeinde Köln"
 ---
@@ -7,4 +7,4 @@ description: "Chinesische Christliche Gemeinde Köln"
 
 时间：每周日 10:00
 
-地点：Boltensternstr. 37, 50735 Köln
+地点：Ernst-Weyden-Straße 13, 51105 Köln
