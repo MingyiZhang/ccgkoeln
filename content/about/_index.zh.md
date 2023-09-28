@@ -7,7 +7,7 @@ featured_image: "/images/cologne-destination.jpg"
 
 ## 我们的异像
 
-清心 ~ 以清洁的心迎见神
+清心 ~ 以清洁的心迎见上帝
 
 会爱 ~ 以智慧的心善爱他人
 
