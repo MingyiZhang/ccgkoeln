@@ -16,44 +16,44 @@ This repository contains the codebase for the CCG Köln project. In this README,
 
 #### On Windows:
 
-\`\`\`cmd
+```bash
 choco install hugo
-\`\`\`
+```
 
 #### On Ubuntu:
 
 Using apt package manager:
 
-\`\`\`bash
+```bash
 sudo apt update
 sudo apt install hugo
-\`\`\`
+```
 
 Or using snap:
 
-\`\`\`bash
+```bash
 sudo snap install hugo
-\`\`\`
+```
 
 Confirm the installation by running:
 
-\`\`\`bash
+```bash
 hugo version
-\`\`\`
+```
 
 ### Clone the Repository
 
 To clone this repository along with all its submodules, run the following command in your terminal:
 
-\`\`\`bash
+```bash
 git clone --recursive https://github.com/ccgkoeln/ccgkoeln
-\`\`\`
+```
 
 Navigate into the directory after cloning:
 
-\`\`\`bash
+```bash
 cd ccgkoeln
-\`\`\`
+```
 
 ## Workflow
 
@@ -67,15 +67,15 @@ After making your changes, you can execute the \`commit.sh\` script to commit an
 
 First, make sure the script is executable:
 
-\`\`\`bash
+```bash
 chmod +x commit.sh
-\`\`\`
+```
 
 Then run the script:
 
-\`\`\`bash
+```bash
 ./commit.sh
-\`\`\`
+```
 
 This will commit the changes in your local repository and then push them to the remote repository.
 
@@ -85,15 +85,15 @@ To deploy the changes to the live server, you can execute the \`deploy.sh\` scri
 
 Make sure the script is executable:
 
-\`\`\`bash
+```bash
 chmod +x deploy.sh
-\`\`\`
+```
 
 Then run the script:
 
-\`\`\`bash
+```bash
 ./deploy.sh
-\`\`\`
+```
 
 This will perform all necessary actions to deploy your updates.
 
@@ -103,8 +103,8 @@ You can add content under the `content` folder. The `posts` folder within it is 
 
 To add an article, you can use the following shell command:
 
-\`\`\`shell script
+```shell script
 hugo new posts/<postname>.zh.md
-\`\`\`
+```
 
 Here, `zh` represents articles in Chinese and `de` represents articles in German.
