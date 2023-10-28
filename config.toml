@@ -31,14 +31,19 @@ name = "营会|活动"
 weight = 5
 
 [[Languages.zh.menu.main]]
+url = "/fellowship/"
+name = "團契"
+weight = 7
+
+[[Languages.zh.menu.main]]
 url = "/about/"
 name = "关于我们"
-weight = 7
+weight = 9
 
 [[Languages.zh.menu.main]]
 url = "/contact/"
 name = "联络我们"
-weight = 9
+weight = 11
 
 [Languages.de]
 url = "/de/"
@@ -62,13 +67,18 @@ name = "Bibelcamp|Aktivität"
 weight = 5
 
 [[Languages.de.menu.main]]
+url = "/fellowship/"
+name = "Bibelkreis"
+weight = 7
+
+[[Languages.de.menu.main]]
 url = "/about/"
 name = "Über uns"
-weight = 7
+weight = 9
 
 [[Languages.de.menu.main]]
 url = "/contact/"
 name = "Kontakt"
-weight = 9
+weight = 11
 
 
